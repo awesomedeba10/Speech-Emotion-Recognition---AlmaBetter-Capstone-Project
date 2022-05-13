@@ -15,7 +15,7 @@ THREADS_PER_PAGE = 2
 
 # Enable protection agains *Cross-site Request Forgery (CSRF)*
 CSRF_ENABLED     = True
-CSRF_SESSION_KEY = "12d9fe4214e5d2a5001fa3a0d7800a480dfaaea3"
+CSRF_SESSION_KEY = ""
 
 # Secret key for signing cookies
-SECRET_KEY = "51ac0a33945f0c09670d2f2917e3e8c0"
+SECRET_KEY = ""
